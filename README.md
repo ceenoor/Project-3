@@ -1,4 +1,9 @@
 Project-3
-=========
+CPSC 330
 
-Project 3
+Noor Chaudhry
+Carlson Beale
+Seong Cho
+
+
+
